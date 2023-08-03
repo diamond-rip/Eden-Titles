@@ -1,0 +1,22 @@
+titles:
+  '0':
+    name: "BRONZE"
+    required-wins: 100
+  '1':
+    name: "SILVER"
+    required-wins: 200
+  '2':
+    name: "GOLD"
+    required-wins: 300
+  '3':
+    name: "PLATINUM"
+    required-wins: 400
+  '4':
+    name: "DIAMOND"
+    required-wins: 500
+  '5':
+    name: "MASTER"
+    required-wins: 600
+  '6':
+    name: "PREDATOR"
+    required-wins: 700

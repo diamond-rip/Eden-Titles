@@ -1,0 +1,6 @@
+name: Eden-Titles
+version: '${version}'
+main: rip.diamond.practice.titles.EdenTitles
+depend:
+  - Eden
+  - PlaceholderAPI
